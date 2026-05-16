@@ -78,13 +78,13 @@ const Login: React.FC = () => {
             </p>
           </div>
 
-          <div className="mt-4 p-3 bg-gray-50 rounded-lg">
+          {/* <div className="mt-4 p-3 bg-gray-50 rounded-lg">
             <p className="text-xs text-gray-500 text-center">
               Demo Accounts:<br />
               Admin: admin@taskflow.com / admin123<br />
               Member: john@taskflow.com / member123
             </p>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
